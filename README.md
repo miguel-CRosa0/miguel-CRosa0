@@ -125,8 +125,6 @@
 
 <div align="center">
 
-<img src="https://64.media.tumblr.com/9f05d6e4bdbfdc119d782925c8b16009/9842f68acbdf359f-1a/s540x810/bc16271848be8f0c623eb662af821b809503c196.gif" width="350" alt="Final GIF">
-
 **✨ Thanks for visiting! Let's build something amazing together! ✨**
 
 </div>
