@@ -28,7 +28,7 @@
 <div align="left">
 
 ### 🏢 **Front-End Development Intern**  
-*SENAI | Jan/2025 - Jul/2026*
+*SENAI | Jan/2025 - Jul/2026* <br>
 *FACCHINI | Aug/2026 - Present* 
 
 <div style="margin-top: 12px; padding-left: 16px; border-left: 3px solid #00FF9D;">
