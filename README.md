@@ -16,7 +16,7 @@
 
 <p align="center">
 <b>Miguel Casteletti Rosa</b> | Front-End Developer in formation<br>
-🎓 IT Student at SENAI | 💼 Front-End Development Intern<br>
+🎓 Working as a developer and currently studying Systems analysis and development <br>
 <b>Creating clean, functional interfaces with a focus on user experience and performance.</b>
 </p>
 
